@@ -1,0 +1,12 @@
+<script>
+document.head.insertAdjacentHTML("beforeend", `<style>
+/* CSS BELOW ⬇️⬇️⬇️⬇️⬇️ */
+* {
+  background: pink;
+}
+div[data-v-421a96a8] {
+  padding-bottom: 0;
+}
+/* CSS ABOVE ⬆️⬆️⬆️⬆️⬆️ */
+</style>`);
+</script>
