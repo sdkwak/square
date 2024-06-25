@@ -2,3 +2,7 @@
 div[data-v-421a96a8] {
   padding-bottom: 0;
 }
+/*Hide heading*/ 
+div[data-v-ab1ca44a].w-wrapper {
+    display: none;
+}
