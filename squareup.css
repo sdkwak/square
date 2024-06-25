@@ -7,3 +7,13 @@ div[data-v-421a96a8] {
         nav[data-v-ab1ca44a].Tabs_Tabs_Controller--2BwNN.align--left.Tabs_Tabs_flush--34QxE {
             display: none;
         }
+
+.location-margin[data-v-421a96a8] {
+    margin-bottom: none;
+}
+
+@media (max-width: 599px) {
+    .container[data-v-421a96a8] {
+        padding-bottom:none;
+    }
+}
