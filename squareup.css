@@ -2,3 +2,8 @@
 div[data-v-421a96a8] {
   padding-bottom: 0;
 }
+
+/*hide heading*/
+        nav[data-v-ab1ca44a].Tabs_Tabs_Controller--2BwNN.align--left.Tabs_Tabs_flush--34QxE {
+            display: none;
+        }
